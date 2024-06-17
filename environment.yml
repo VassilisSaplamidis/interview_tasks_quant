@@ -1,0 +1,9 @@
+name: ml-interview-test
+channels:
+  - defaults
+dependencies:
+  - python=3.10.13
+  - pandas
+  - numpy
+  - scikit-learn
+  - matplotlib
